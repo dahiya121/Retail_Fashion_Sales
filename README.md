@@ -1,6 +1,6 @@
-# Retail_Fashion_Sales
+# Fashion_Retail_Sales
 
-🛍️ Retail Fashion Sales Dashboard
+🛍️  Fashion Retail Sales Dashboard
 
 🚀 Overview
 
